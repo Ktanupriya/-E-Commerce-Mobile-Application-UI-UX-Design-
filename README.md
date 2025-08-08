@@ -1,5 +1,5 @@
 
-🛍 E-COMMERCE MOBILE APPLICATION – UI/UX DESIGN
+🛍 E-COMMERCE MOBILE WEB APPLICATION – UI/UX DESIGN
 
 Turning online shopping into a smooth, stylish journey.
 
