@@ -1,5 +1,8 @@
+# E-COMMERCE MOBILE WEB APPLICATION – UI/UX DESIGN
 
 🛍 E-COMMERCE MOBILE WEB APPLICATION – UI/UX DESIGN
+
+Designed intuitive web app with clean layouts, improved user flow and high-fidelity prototypes
 
 Turning online shopping into a smooth, stylish journey.
 
